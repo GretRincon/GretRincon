@@ -33,6 +33,9 @@ Me interesa mucho la física, ciencia de datos, creación de mapas.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### 🌐 Lenguajes de mis contribuciones en Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GretRincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ¡Gracias por visitar mi perfil! 🌟
