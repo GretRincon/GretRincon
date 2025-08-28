@@ -5,12 +5,13 @@ Soy nueva en GitHub y estoy emocionada por comenzar a compartir mis proyectos.
 Me interesa mucho la física, ciencia de datos, creación de mapas.
 
 ## 🚀 Que estoy aprendiendo:
-- Estoy estudiando física en la UNAM
-- Soy parte del prebecariado de PROTECSA
+- Soy física de la UNAM
+- Becaria de PROTECSA
+
 
 ## 📚 Actualmente trabajando en:
-- Pequeñas simulaciones en Julia sobre física estadística
-- Tomando cursos de C y bases de datos 
+- Simulaciones de tránsito vehicular y de trenes
+- Impartiendo cursos de redes de datos y diseño web
 
 ## ✨ Sobre mí:
 - 💻 Me encanta aprender cosas nuevas.
