@@ -6,6 +6,7 @@ Me interesa mucho la física, ciencia de datos, creación de mapas.
 
 ## 🚀 Que estoy aprendiendo:
 - Soy física de la UNAM
+- Colaboradora en la SCIT
 - Becaria de PROTECSA
 
 
